@@ -2,7 +2,7 @@
 
 [Snapshot](https://i.ibb.co/7gCs19H/Search-API.png)
 [Snapshot](https://i.ibb.co/TbG5kSy/Search-API-1.png)
-### [Live](https://search-wsl.netlify.app/search)
+### [Live](https://search-wsl.netlify.app/)
 
 ## Rapid API
 
